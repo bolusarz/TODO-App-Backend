@@ -1,0 +1,6 @@
+/.idea/
+requirements.txt
+*.log
+package-lock.json
+/node_modules/
+expections.log
